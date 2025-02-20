@@ -21,7 +21,7 @@ pip install pandas numpy geopandas matplotlib seaborn folium shapely openpyxl
 
 ### 3. **Data**
 #### Required Files:
-- `cleaned.xlsx`: The cleaned dataset containing road data.
+- `filtered_latitude_longitude_rows.xlsx`: The cleaned dataset containing road data.
 - Nairobi shapefile:
   - Download from one of the following:
     - [Geofabrik](https://www.geofabrik.de/)
